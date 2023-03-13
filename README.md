@@ -1,4 +1,4 @@
-# gold-temp
+# gold-temp-vue3
 
 eslint @golddigger
 
